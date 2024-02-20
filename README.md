@@ -1,4 +1,7 @@
-<h2> Scenario</h2>
+<h1> Virtual Network Simulation</h1>
+
+
+<h2> Description of scenario</h2>
 A company is planning to host its web application on a physical server which is connected to the internet. So, they are planning to use a Virtual machine (VM) for the web server and another VM as a Database server. They also plan to use a third VM to host some containers to serve additional services required for this web application. Everything should be protected with a firewall and a virtual switch will be used to assign IP addresses to these VMs. The task is to create a diagram that reflects this scenario. 
 
 <h2> Objective</h2>
@@ -49,5 +52,5 @@ Step 9: Place the internet icon on the canvas and connect it to the physical ser
 
 
 <h2> Conclusion </h2>
+In this exercise, I successfully designed a virtual network diagram using Figma to reflect the company's plan to host its web application on a physical server connected to the internet. The diagram includes three virtual machines (VMs) designated for the web server, database server, and hosting containers for additional services. Each VM is protected by a firewall, and a virtual switch is used to assign IP addresses. By following the provided instructions and utilizing the downloaded icons, I created a clear and organized representation of the network architecture, ensuring secure and efficient communication among the virtual components.
 
-By completing this exercise, I practiced designing a virtual network that incorporates various components such as virtual switches, VMs, containers, virtual firewalls, and a physical server hosting all the virtual items. This hands-on experience should help me understand how network components work together to create a secure and efficient network infrastructure to host a web application with virtual components. 
